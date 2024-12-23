@@ -1,0 +1,38 @@
+yt-horizontal-list-renderer, ytd-expanded-shelf-contents-renderer, ytd-watch-next-secondary-results-renderer {
+    display: none !important;
+}
+#watch7-sidebar-media-ads ,#header #ad_creative_1 ,.ad-showing .ad-video ,.ad-showing .ad-overlay {
+  display: none !important;
+}
+
+.pyv-afc-ads-container ,.pyv-afc-ads-inner ,.branded-page-v2-secondary-col, #footer-container, #yt-masthead-signin, #watch-discussion, #action-panel-details, #watch7-user-header, #watch8-action-buttons, #watch7-hidden-extras, #theater-background, #watch-sidebar-spacer, .video-annotations, .thumb-wrapper .addto-watch-later-button-sign-in, .watch-sidebar-separation-line, .related-list-item .thumb-wrapper, #watch-related a.mix-playlist, #watch-related a.related-playlist, .content-wrapper .accessible-description, .content-wrapper .attribution, .content-wrapper .view-count, #watch-more-related, #watch-more-related-button {
+  display: none !important;
+}
+
+html5-endscreen, .ytp-player-content, .videowall-endscreen, .ytp-show-tiles, .ytp-endscreen-paginate {
+  display: none !important;
+}
+
+#watch-discussion, #comments, #merch-shelf{
+  display: none !important;
+}
+ytd-guide-section-renderer:nth-child(1) #items>ytd-guide-entry-renderer:nth-child(2) {
+  display: none;
+}
+
+ytd-guide-section-renderer:nth-child(n+2) {
+  display: none !important;
+}
+
+.ytd-live-chat-frame, #chat{
+   display: none !important;
+}
+
+/* #dismissible { */
+  /* display: none !important;
+} */
+
+.ytd-rich-section-renderer,
+.ytd-feed-filter-chip-bar-renderer {
+  display: none !important;
+}
